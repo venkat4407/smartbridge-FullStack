@@ -1,0 +1,32 @@
+# 🧑‍💻 SmartBridge Full-Stack Freelancer Platform
+
+This repository contains a full-stack web application built as part of the **SmartBridge Internship Program**. The platform enables **clients to post projects**, **freelancers to browse and bid**, and includes **real-time chat**, **role-based dashboards**, and **admin tools** for managing the freelancing workflow.
+
+---
+
+## 🚀 Features
+
+- 🔐 **User Authentication** – Secure login/register with JWT  
+- 🧑‍💼 **Client Dashboard** – Post, update, and manage projects  
+- 🧑‍🔧 **Freelancer Dashboard** – Browse projects, submit proposals  
+- 💬 **Real-Time Chat** – Clients & freelancers can communicate within projects  
+- 📁 **Work Submission** – Freelancers can submit completed work  
+- ✅ **Approval Flow** – Clients review and approve work  
+- 🛡️ **Admin Controls** – Admin dashboard to monitor platform activity and resolve disputes  
+- 🔔 **Notifications** – Instant updates for project status and messages  
+- 💻 **Fully Responsive** – Mobile and desktop-friendly UI  
+
+---
+
+## 🏗️ Tech Stack
+
+| Layer        | Technology           |
+|--------------|----------------------|
+| Frontend     | React.js, Bootstrap, Axios, Material UI, Framer Motion |
+| Backend      | Node.js, Express.js  |
+| Database     | MongoDB (via Mongoose) |
+| Auth         | JWT (JSON Web Tokens) |
+| Realtime     | Socket.IO (for chat & updates) |
+| Deployment   | Vercel (Frontend), Render (Backend) |
+
+---
